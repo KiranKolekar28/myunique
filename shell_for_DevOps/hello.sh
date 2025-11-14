@@ -12,3 +12,5 @@ line c
 comment
 
 echo "added in console"
+
+echo "changed again"
