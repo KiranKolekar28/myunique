@@ -10,3 +10,5 @@ multi
 line c
 
 comment
+
+echo "added in console"
