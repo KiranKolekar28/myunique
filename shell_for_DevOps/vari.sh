@@ -16,3 +16,5 @@ echo "enter the user name"
 
 read name 
 echo "my name is $name"
+
+echo " i have cha ged"
